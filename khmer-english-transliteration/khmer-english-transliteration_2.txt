@@ -4,14 +4,13 @@
 ឡើយ=lery,laey
 ថ្មី=thmei,t'mei,tmey
 ការងារ=kangea,kangea
-ធ្វើ=tver,tveu,thveu
+ធ្វើ=tver,tveu,thveu,tve,thver
 ជាផ្នែក=cheaphnek,jeaphnek,jeapnek
 ផ្នែក=phnek,pnek,pnaek
 យក=yk,yok
 ទទួល=t'toul,ttul,t'tul,tortul,turtul,totul,totuol,totoul
-បាន=ban,bn
 កន្លែង=konlaeng,k'leng,k'laeng,k'lg,kanlaeng
-បានធ្វើ=ban tver
+បានធ្វើ=bantver
 រស់=rous,rus
 នៅ=nv,nov
 ដែល=del,dl
@@ -76,7 +75,6 @@
 ទាំង=teang,tang
 អស់=os,ors
 នោះ=nus,nos,nuh
-ពេល=pel
 ឡើង=lerng,leung
 ប្រើ=brer,prer,proeu
 វិធី=vithi,vithy
@@ -85,10 +83,7 @@
 សរសេរ=sorse,sorseh,soseh,sorseh,sohseh
 នឹង=ng,neng
 ដូច្នេះ=dochchneh,dochjnes,dochchnes
-នាង=neang
-យូរ=yu,you,yuo
-ធ្វើ=tver,tve,thver
-ឱ្យ=aoiy
+យូរ=yu,you,yuo,yuu
 រឿង=rerng,rueng,reurng
 សូម=som,sorm
 មើល=mer,merl

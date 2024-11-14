@@ -22,7 +22,6 @@
 ក្តៅ=kdav,k'dao,ktau
 ពាក្យ=peak
 ប៉ុន្តែ=pontae,ponte
-អ្វី=avey,ahvey,avei
 ដែល=del,dail
 ចំនួន=jomnoun,jomnuon,chamnuon
 វា=vea,
@@ -39,7 +38,6 @@
 ទៀត=tt,teat,tiet
 នាក់=neak,nak
 ធ្វើ=tver,thveu
-ពួក=puok,pouk
 ពេលវេលា=pelvelea
 ពេល=pel
 វេលា=velea,vela
@@ -83,7 +81,6 @@
 សកម្មភាព=sakammapheap,sakammapiap
 ហេតុ=het,haet
 អ្វី=avey,ahvey,avei,ey
-ជា=chea,jea
 សួរ=sur,suor,sour
 បុរស=boros,bros,boras
 ផ្លាស់=p'las,plas,plahs
