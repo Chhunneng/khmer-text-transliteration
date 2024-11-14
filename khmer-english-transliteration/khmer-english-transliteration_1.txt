@@ -12,7 +12,6 @@
 លើ=ler, leu
 មាន=mean,mian
 ជាមួយ=jmouy,j'mouy,cheamouy,jeamouy
-នឹង=ng,neng
 ពួក=pouk,puok
 គេ=ke
 ការ=ka,kar
@@ -50,7 +49,6 @@
 នឹង=ng,neng
 របៀប=r'beab,robeab,rbeab,robieb
 និយាយ=yy,niyeay
-ថា=tha
 គ្នា=k'nea,knea
 ប្រាប់=brab,prab,prap
 មិន=min,men
@@ -96,7 +94,7 @@
 បិទ=bet,bit
 រូបភាព=rouppheab,rubpheab
 ភាព=pheab,pheap
-រូប=rub,rup,ruk,
+រូប=rub,rup,rop,rob,ruk,
 ព្យាយាម=p'cheayeam,pcheayeam,pjeayeam,p'jeayeam
 ថ្មី=thmei,t'mei,tmey
 ម្តង=m'dong,m'dg,mdong,mdoung
