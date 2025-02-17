@@ -13,6 +13,14 @@ This project provides tools to convert English phonetic text into Khmer script. 
 - Fuzzy matching and similarity search
 - Web interface using Gradio
 
+## Installation
+
+You can install the Khmer Text Transliteration package directly from PyPI using pip:
+
+```bash
+pip install khmer-english-transliteration
+```
+
 ## Project Structure
 
 ### Pre-trained Models
