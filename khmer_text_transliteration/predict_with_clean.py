@@ -1,8 +1,8 @@
 import difflib
 import os
-from src.data_processing import load_data, normalize_khmer, khmer_word, flat_khmer_word
-from src.predict import transliterate_variants
-from config import BASE_DIR
+from khmer_text_transliteration.data_processing import load_data, normalize_khmer, khmer_word, flat_khmer_word
+from khmer_text_transliteration.predict import transliterate_variants
+from khmer_text_transliteration.config import BASE_DIR
 
 
 all_pronunciations = load_data(

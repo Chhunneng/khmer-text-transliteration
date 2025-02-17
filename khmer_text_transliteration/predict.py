@@ -3,8 +3,8 @@ import pickle
 from tensorflow.keras.models import Model, load_model
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 from tensorflow.keras.layers import Input
-from src.data_processing import clean_text, normalize_khmer
-from config import *
+from khmer_text_transliteration.data_processing import clean_text, normalize_khmer
+from khmer_text_transliteration.config import *
 
 # Load assets
 with open(ASSETS_PATH, "rb") as f:

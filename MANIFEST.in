@@ -1,0 +1,5 @@
+include README.md
+include LICENSE
+recursive-include khmer_text_transliteration/models *
+recursive-include khmer_text_transliteration/data/processed *
+recursive-include khmer_text_transliteration/data/raw *

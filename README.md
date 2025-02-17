@@ -17,7 +17,7 @@ This project provides tools to convert English phonetic text into Khmer script. 
 
 ### Pre-trained Models
 
-The project includes pre-trained models located in `src/models/pretrained/`:
+The project includes pre-trained models located in `khmer_text_transliteration/models/pretrained/`:
 
 - `khmer_transliterator.keras`: A pre-trained sequence-to-sequence model for English to Khmer transliteration
 
@@ -53,7 +53,7 @@ To train a new model or experiment with the existing one, refer to the training 
 ### 1. Basic Transliteration
 
 ```python
-from src.predict import transliterate
+from khmer_text_transliteration.predict import transliterate
 
 # Convert English text to Khmer
 result = transliterate("somlor")  # Returns: សម្ល
@@ -62,7 +62,7 @@ result = transliterate("somlor")  # Returns: សម្ល
 ### 2. Generate Multiple Variants
 
 ```python
-from src.predict import transliterate_variants
+from khmer_text_transliteration.predict import transliterate_variants
 
 # Get multiple possible transliterations
 variants = transliterate_variants("srolanh", num_variants=3, temperature=0.7)
@@ -72,7 +72,7 @@ variants = transliterate_variants("srolanh", num_variants=3, temperature=0.7)
 ### 3. Find Similar Words
 
 ```python
-from src.predict_with_clean import find_similar
+from khmer_text_transliteration.predict_with_clean import find_similar
 
 # Find similar Khmer words
 similar_words = find_similar("min", max_results=2)
@@ -82,7 +82,7 @@ similar_words = find_similar("min", max_results=2)
 ### 4. TF-IDF Based Similarity Search
 
 ```python
-from src.predict_with_clean import find_similar_tfidf
+from khmer_text_transliteration.predict_with_clean import find_similar_tfidf
 
 # Find similar words using TF-IDF
 similar = find_similar_tfidf("min", max_results=2)
@@ -92,7 +92,7 @@ similar = find_similar_tfidf("min", max_results=2)
 ### 5. Last Result Prediction
 
 ```python
-from src.predict_with_clean import predict_last_result
+from khmer_text_transliteration.predict_with_clean import predict_last_result
 
 # Get final predictions with scoring
 results = predict_last_result("snam", num_results=3)

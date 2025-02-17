@@ -9,4 +9,3 @@ EPOCHS = 50
 BEAM_WIDTH = 3
 MODEL_PATH = os.path.join(BASE_DIR, "models", "pretrained", "khmer_transliterator.keras")
 ASSETS_PATH = os.path.join(BASE_DIR, "data", "processed", "khmer_transliteration_assets.pkl")
-
